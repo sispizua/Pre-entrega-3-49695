@@ -1,3 +1,17 @@
+
+//utilities
+
+@import "./utilities/mixins";
+@import "./utilities/maps";
+@import "./utilities/funtions";
+@import "./utilities/variables";
+
+//base y layouts
+
 @import "./base/reset";
 
-@import "./utilities/maps"
+@import "./layout/header";
+@import "./layout/mainIndex";
+@import "./layout/footer";
+
+//componentes

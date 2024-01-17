@@ -1,0 +1,12 @@
+.principal{
+    background-image: url(../assets/Fondo-de-pagina.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: none;
+    height: 40rem;
+    width: 100%;
+    @include flex(column, center, end, none);
+}
+.boton{
+    
+}
